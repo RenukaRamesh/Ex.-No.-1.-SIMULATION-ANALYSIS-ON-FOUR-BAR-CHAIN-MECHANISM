@@ -53,10 +53,10 @@
 
 
 ## Output:
+![](<Screenshot 2024-04-22 143330.png>)
 
-
-### Name:
-### Register Number: 
+### Name: RAMESH RENUKA
+### Register Number: 212223240136
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
